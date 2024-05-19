@@ -3,12 +3,14 @@ using System.Collections.Generic;
 
 namespace GUIAH5
 {
+    // Clase para registrar un teléfono en el inventario
     public class RegistrarTelefono
     {
         public void Registrar(List<Telefono> Inventario)
         {
             Telefono telefono = new Telefono();
 
+           
             Console.WriteLine("Seleccione La Marca:");
             Console.WriteLine("1. Samsung");
             Console.WriteLine("2. Apple");
@@ -38,10 +40,11 @@ namespace GUIAH5
                         telefono.Marca = "OnePlus";
                         break;
                     default:
+                        // Mostrar mensaje de error si la opción de marca es inválida
                         Console.WriteLine("Opción inválida.");
                         break;
                 }
-            } while (telefono.Marca == null);
+            } while (telefono.Marca == null); 
 
             Console.Write("Ingrese el modelo: ");
             telefono.Modelo = Console.ReadLine();
@@ -53,6 +56,7 @@ namespace GUIAH5
             telefono.Stock = int.Parse(Console.ReadLine());
 
             Inventario.Add(telefono);
+
             Console.WriteLine("Teléfono registrado exitosamente.");
         }
     }

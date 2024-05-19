@@ -5,3 +5,10 @@ C:\Users\PC\source\repos\GUIAH5\GUIAH5\obj\Debug\GUIAH5.csproj.AssemblyReference
 C:\Users\PC\source\repos\GUIAH5\GUIAH5\obj\Debug\GUIAH5.csproj.CoreCompileInputs.cache
 C:\Users\PC\source\repos\GUIAH5\GUIAH5\obj\Debug\GUIAH5.exe
 C:\Users\PC\source\repos\GUIAH5\GUIAH5\obj\Debug\GUIAH5.pdb
+C:\Users\PC\Desktop\GUIAH5\GUIAH5\bin\Debug\GUIAH5.exe.config
+C:\Users\PC\Desktop\GUIAH5\GUIAH5\bin\Debug\GUIAH5.exe
+C:\Users\PC\Desktop\GUIAH5\GUIAH5\bin\Debug\GUIAH5.pdb
+C:\Users\PC\Desktop\GUIAH5\GUIAH5\obj\Debug\GUIAH5.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\GUIAH5\GUIAH5\obj\Debug\GUIAH5.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\GUIAH5\GUIAH5\obj\Debug\GUIAH5.exe
+C:\Users\PC\Desktop\GUIAH5\GUIAH5\obj\Debug\GUIAH5.pdb
